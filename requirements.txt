@@ -1,3 +1,7 @@
 pandas
 pytest
+<<<<<<< HEAD
 pytest-cov
+=======
+pytest-cov
+>>>>>>> 40681a4349fc321ba9de436b49dc48a8da4eb4c4
